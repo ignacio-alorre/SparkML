@@ -52,4 +52,4 @@ val details_actuals_delays_cleansedFeteng3 = finalPipeline.transform(details_act
 display(details_actuals_delays_cleansedFeteng3.select("deplocaltime", "depquarterofday", "depdaynight","deplocaltimePCA","depquarterofdayPCA","depdaynightPCA"))
 ```
 
-
+<img src="pcaEx1.jpg" width="800" />
