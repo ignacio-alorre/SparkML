@@ -1,5 +1,5 @@
 
-![yaktocat](https://user-images.githubusercontent.com/20033386/46547595-728d7180-c8dd-11e8-8943-27801501a988.png)
+![yaktocat](https://user-images.githubusercontent.com/20033386/46548114-280cf480-c8df-11e8-91d2-6da626266619.png)
 
 <img src="pcaEx2.png" width="800" />
 
