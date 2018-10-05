@@ -1,6 +1,7 @@
 
 ![yaktocat](https://user-images.githubusercontent.com/20033386/46547595-728d7180-c8dd-11e8-8943-27801501a988.png)
 
+<img src="pcaEx2.png" width="800" />
 
 ```scala
 import org.apache.spark.ml.linalg._
