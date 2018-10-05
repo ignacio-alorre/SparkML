@@ -50,4 +50,4 @@ val details_actuals_delays_cleansedFeteng3 = finalPipeline.transform(details_act
 display(details_actuals_delays_cleansedFeteng3.select("deplocaltime", "depquarterofday", "depdaynight","deplocaltimePCA","depquarterofdayPCA","depdaynightPCA"))
 ```
 
-![Output](https://github.com/ignacio-alorre/SparkML/PCA/img/pcaEx2.png)
+![Output](https://github.com/ignacio-alorre/SparkML/PCA/pcaEx2.png)
