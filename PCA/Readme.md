@@ -1,4 +1,7 @@
 
+![yaktocat](https://user-images.githubusercontent.com/20033386/46547595-728d7180-c8dd-11e8-8943-27801501a988.png)
+
+
 ```scala
 import org.apache.spark.ml.linalg._
 import org.apache.spark.sql.functions._
