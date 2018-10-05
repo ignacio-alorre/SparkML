@@ -51,3 +51,5 @@ display(details_actuals_delays_cleansedFeteng3.select("deplocaltime", "depquarte
 ```
 
 ![Output](https://github.com/ignacio-alorre/SparkML/blob/master/PCA/pcaEx2.png)
+
+![Yokat](https://github.com/ignacio-alorre/SparkML/blob/master/PCA/yaktocat.png)
