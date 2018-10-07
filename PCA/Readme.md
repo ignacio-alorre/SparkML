@@ -1,7 +1,7 @@
 
 ![pcaex1](https://user-images.githubusercontent.com/20033386/46548188-5b4f8380-c8df-11e8-8ba9-5f5322e4cbb5.jpg)
 
-![sth](pcaEx1.jpg)
+![sth|512x397](pcaEx1.jpg)
 
 ![](pcaEx1.jpg)
 
